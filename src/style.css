@@ -8,6 +8,18 @@
   margin-bottom: 20px;
 }
 
-.form__block .form__field :last-child {
+.form__field:last-child {
+  margin-bottom: 0;
+}
+
+.login:last-child {
+  margin-bottom: 0;
+}
+
+.info:last-child {
+  margin-bottom: 0;
+}
+
+.opinion:last-child {
   margin-bottom: 0;
 }
